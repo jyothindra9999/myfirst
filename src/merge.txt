@@ -1,0 +1,2 @@
+now iam trying to understand mergeconflict
+try to understand merge conflict error
